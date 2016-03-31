@@ -18,11 +18,8 @@ $(function () {
     var childHideColor = '#B6A2DE';
     var hoverColor = '#2EC7C9';
     
-    var dataUrl = '/aj/task/gettaskconfig';
-    var submitUrl = '/aj/task/addtask';
-    
-    var imgAddUrl = 'http://img.t.sinajs.cn/t4/appstyle/e_vertical_admin/images/add.png';
-    var imgDeleteUrl = 'http://img.t.sinajs.cn/t4/appstyle/e_vertical_admin/images/delete.png';
+    var imgAddUrl = './images/add.png';
+    var imgDeleteUrl = './images/delete.png';
     
     var oneLineData = [];
     var nowEnd;
